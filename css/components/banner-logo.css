@@ -1,0 +1,9 @@
+.banner-logo {
+	background-image: url(../../images/logo.png);
+	width: 100%;
+	padding: 3.5% 0%;
+	background-size: 17%; 
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center; 
+}

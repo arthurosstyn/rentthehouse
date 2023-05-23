@@ -1,0 +1,7 @@
+.carte {
+	padding: 7px;
+	display: flex;
+	border-radius: 6px;
+	float: right;
+
+}

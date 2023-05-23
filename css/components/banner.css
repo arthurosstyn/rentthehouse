@@ -1,0 +1,46 @@
+.banner {
+	background-image: url(../../images/background.jpg);
+	padding: 9% 0%;
+	background-size: 120%; 
+	background-position: 0% 60%; 
+	background-repeat: no-repeat;
+}
+
+.banner h1 {
+	font-size: 30px; 
+	font-family: 'Playfair Display', serif;
+	
+}
+
+.banner h2 {
+	font-size: 18px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	font-family: 'Gothic', sans-serif
+	margin: 10% 0%;
+	width: 60%;
+} 
+
+
+
+@media(max-width:900px) {
+	.banner {
+		width: 800px;
+		background-position: 0px -100px
+	}
+}
+
+
+@media(max-width:760px) {
+	.banner {
+		width: 800px;
+		background-position: 0px -50px
+	}
+}
+
+@media(max-width:500px) {
+	.banner {
+		width: 550px;
+		background-position: 0px 0px
+	}
+}

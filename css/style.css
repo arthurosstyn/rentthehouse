@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:400,800|Roboto:300,400,500,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner-logo.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/imagegallery.css");
+@import url("components/grayscale.css");
+@import url("components/info.css");
+@import url("components/carte.css");
+@import url("components/icon.css");
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+</style>
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	background-color: #FAFAFA;
+}
+
+h2 {
+
+font-family: 'Gothic', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Gothic', sans-serif;
+	margin: 30% 0;
+}
+
+.description h1 {
+	font-family: 'Playfair Display', serif;
+	margin: 30px 0px 30px;
+	text-align: center;
+}
+
+.description2 h2 {
+	font-size: 18px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin: 30px 0px; 	
+	text-align: center;
+}
+
+.description a {
+	margin: 18px 0px;
+	text-align: center;
+}

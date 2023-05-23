@@ -1,0 +1,36 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 12%;
+}
+
+
+
+.card {
+	padding: 7px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	vertical-align: middle ;
+	flex-basis: 363px;
+	margin-left: auto;
+    margin-right: auto;
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.card img {
+	width: 320px;
+	border-radius: 6px;
+
+}
+
+.card h3 {
+	text-align: center;
+	font-size: 18px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	font-family: 'Gothic', sans-serif
+}

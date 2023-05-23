@@ -1,0 +1,16 @@
+.imagegallery {
+	display: inline;
+	flex-wrap: wrap;
+	padding: 7px;
+	justify-content: space-between;
+    float: left;
+    margin: 0px 
+
+}
+
+.imagegallery img {
+	width: 300px;
+	border-radius: 6px;
+	margin: 0px;
+
+}
